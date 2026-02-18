@@ -1,6 +1,6 @@
 # Stroke Risk Prediction with Decision Trees
 
-I built this project to predict the likelihood of a stroke using machine learning, specifically focusing on **decision tree classifiers**. The goal was to understand which factors most strongly drive stroke risk predictions and to compare different handling strategies for the highly imbalanced dataset (stroke cases are rare).
+I built this project to predict the likelihood of a stroke using machine learning, specifically focusing on decision tree classifiers. The goal was to understand which factors most strongly drive stroke risk predictions and to compare different handling strategies for the highly imbalanced dataset (stroke cases are rare).
 
 The dataset used is the popular [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) from Kaggle (also known as healthcare-dataset-stroke-data.csv), containing 5,110 patient records with features like age, glucose levels, BMI, hypertension, smoking status, and more.
 
